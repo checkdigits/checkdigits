@@ -10,7 +10,7 @@
 
 ✅ I am also an [Embarcadero MVP](https://www.embarcadero.com/embarcadero-mvp-program).  **_Delphi is my super-power_**.
 
-✅ You can view a  more about me at [_About.me/IanBarker_](https://About.me/IanBarker).
+✅ You can view more about me at [_About.me/IanBarker_](https://About.me/IanBarker).
 
 ### Where can you see my work?
 
