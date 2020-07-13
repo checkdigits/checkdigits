@@ -1,1 +1,62 @@
-# checkdigits
+[![Ian Barker](https://www.repeatinformation.com/profile_pics/ianb_headshot.jpg)](https://www.repeatinformation.com)
+
+Hello.  My name is Ian Barker.  I tell computers what to do. 
+
+---
+
+### What do I do?
+
+I am a British American professional software developer, designer and technical author.
+
+I am also an [Embarcadero MVP](https://www.embarcadero.com/embarcadero-mvp-program).  **_Delphi is my super-power_**.
+
+You can view a  more about me at [_About.me/IanBarker_](https://About.me/IanBarker).
+
+### Where can you see my work?
+
+Most of mydaily work is for software houses and is written under NDA.  Not only can I not show it I usually can't even talk about it.
+
+However, nearly everything else I do is Open Source and public.  You can either find it on my GitHub profile here or at my blog website.
+
+My CodeRage code is always available via Embarcadero or on my work website.
+
+### Background
+
+
+<img src="https://www.repeatinformation.com/profile_pics/ianb_poetry_steps.jpg" align="center"
+     alt="Ian writing on the steps of Wrest Park" width="477" height="512">
+
+I've lived a rich and varied life (so far) and have a wide variety of interests and activities.  Apart from the software development I also am a professional voice actor / narrator.  
+
+<img src="https://www.repeatinformation.com/profile_pics/ianb_robbieburns.jpg" align="left"
+     alt="Ian dressed as Robbie Burns" width="143" height="256">
+
+I also write poetry and have been published in dozens of anthologies, magazines as well as four books of my own.  I used to perform as part of the BardCore spoken word troupe and have appeared in various festivals, events and workshops as well as a few stately homes. 
+
+ 
+ I was born in London, England.  In 2009 I emigrated to the USA.  I now live in Dallas, Texas.  I became a US Citizen in 2013.  I'm married to an American with an American daughter.  no I haven't lost my cute British accent. 
+
+
+### Work
+
+![Ian in Hannover](https://www.repeatinformation.com/profile_pics/ianb_hannover.jpg)
+
+I work for myself at [RepeatInformation.com](https://www.repeatinformation.com)
+
+I mostly develop applications for Windows, iOS and Android.  No I will not fix your computer.
+
+## Streaming
+
+<img src="https://www.repeatinformation.com/profile_pics/mic.jpg" align="right"
+     alt="a microphone" width="141" height="106">
+
+You can catch me live-streaming in various places across the internet as well as at CodeRage, Embarcadero Academy and YouTube.  
+
+## Blogging
+
+I also have a blog with replays and code examples at [CodeDotShow.com](https://www.codedotshow.com/blog)
+Sometimes my dogs think it's hilarious to join in by shouting death-threats at passing Pit Bull terriers.  Sorry, (not sorry).  Dogs rule.
+
+![Chloe and Nemo](https://www.repeatinformation.com/profile_pics/chloeandnemo.jpg)
+
+xxx
