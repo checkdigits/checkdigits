@@ -14,7 +14,7 @@ You can view a  more about me at [_About.me/IanBarker_](https://About.me/IanBark
 
 ### Where can you see my work?
 
-Most of mydaily work is for software houses and is written under NDA.  Not only can I not show it I usually can't even talk about it.
+Most of my daily work is for software houses and is generally covered under one or more NDAs.  Not only can I not show it I usually can't even talk about it.
 
 However, nearly everything else I do is Open Source and public.  You can either find it on my GitHub profile here or at my blog website.
 
@@ -36,6 +36,7 @@ I also write poetry and have been published in dozens of anthologies, magazines 
  
  I was born in London, England.  In 2009 I emigrated to the USA.  I now live in Dallas, Texas.  I became a US Citizen in 2013.  I'm married to an American with an American daughter.  no I haven't lost my cute British accent. 
 
+![Ian in Hannover](https://www.repeatinformation.com/profile_pics/ianb_mic.jpg)
 
 ### Work
 
@@ -59,4 +60,4 @@ Sometimes my dogs think it's hilarious to join in by shouting death-threats at p
 
 ![Chloe and Nemo](https://www.repeatinformation.com/profile_pics/chloeandnemo.jpg)
 
-xxx
+Happy coding!
