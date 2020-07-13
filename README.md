@@ -26,7 +26,7 @@ My CodeRage code is always available via Embarcadero or on my work website.
 <img src="https://www.repeatinformation.com/profile_pics/ianb_poetry_steps.jpg" align="center"
      alt="Ian writing on the steps of Wrest Park" width="477" height="512">
 
-I've lived a rich and varied life (so far) and have a wide variety of interests and activities.  Apart from the software development I'm also a professional voice actor / narrator.  
+I've lived a rich and varied life (so far) and have a wide variety of interests and activities.  Apart from the software development I'm also a professional voice actor / narrator.  You'll find me narrating audiobooks on Audible, Amazon and the iTunes Bookstore as well as other outlets, and as a voice-over for various sales and demonstration videos.
 
 <img src="https://www.repeatinformation.com/profile_pics/ianb_robbieburns.jpg" align="left"
      alt="Ian dressed as Robbie Burns" width="143" height="256">
