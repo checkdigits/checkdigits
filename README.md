@@ -1,20 +1,20 @@
 [![Ian Barker](https://www.repeatinformation.com/profile_pics/ianb_headshot.jpg)](https://www.repeatinformation.com)
 
-Hello.  My name is Ian Barker.  I tell computers what to do. 
+*Hello.  My name is Ian Barker.  I tell computers what to do.* 
 
 ---
 
 ### What do I do?
 
-I am a British American professional software developer, designer and technical author.
+✅ I am a British American professional software developer, designer and technical author.
 
-I am also an [Embarcadero MVP](https://www.embarcadero.com/embarcadero-mvp-program).  **_Delphi is my super-power_**.
+✅ I am also an [Embarcadero MVP](https://www.embarcadero.com/embarcadero-mvp-program).  **_Delphi is my super-power_**.
 
-You can view a  more about me at [_About.me/IanBarker_](https://About.me/IanBarker).
+✅ You can view a  more about me at [_About.me/IanBarker_](https://About.me/IanBarker).
 
 ### Where can you see my work?
 
-Most of my daily work is for software houses and is generally covered under one or more NDAs.  Not only can I not show it I usually can't even talk about it.
+Most of my daily work is for software houses and is generally covered under one or more NDAs.  Not only can I not show it I usually can't even talk about it.  The repos for that work are private so you (hopefully) can't see them - I am a very prolific coder and I have a **lot** of repos 😀
 
 However, nearly everything else I do is Open Source and public.  You can either find it on my GitHub profile here or at my blog website.
 
