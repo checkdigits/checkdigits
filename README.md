@@ -1,8 +1,17 @@
- <a href="https://www.repeatinformation.com" target="_blank">
-    <img src="https://www.repeatinformation.com/profile_pics/ianb_headshot.jpg" alt="Twitter" style="vertical-align:center; margin:4px">
-  </a>  
 
-_Hello.  My name is Ian Barker.  I tell computers what to do._
+<span style="line-height: 1.5; vertical-align: middle; display: inline-block;">
+
+<a href="https://www.repeatinformation.com" target="_blank">
+    <img src="https://www.repeatinformation.com/profile_pics/ianb_headshot.jpg" alt="ians photo" style="float: left; margin:24px">
+  </a>
+
+  
+  <BR /><BR /> _Hello.  My name is Ian Barker.  I tell computers what to do._
+
+</span>
+
+<span style="clear: both; display: table">
+
 
 ---
 
@@ -37,12 +46,8 @@ My CodeRage code is always available via Embarcadero or on my work website.
 ## Background
 
 
-<p align="center">
-
 <img src="https://www.repeatinformation.com/profile_pics/ianb_poetry_steps.jpg" align="center"
      alt="Ian writing on the steps of Wrest Park" width="477" height="512">
-
-</p>
 
 I've lived a rich and varied life (so far) and have a broad range of interests and activities.  Apart from the software development I'm also a professional voice actor / narrator.  You'll find me narrating audiobooks on Audible, Amazon and the iTunes Bookstore as well as other outlets, and as a voice-over for various sales and demonstration videos.
 
