@@ -12,6 +12,8 @@
 
 <span style="clear: both; display: table">
 
+</span>
+
 
 ---
 
@@ -84,4 +86,4 @@ Sometimes my dogs think it's hilarious to join in by shouting death-threats at p
 
 ![Chloe and Nemo](https://www.repeatinformation.com/profile_pics/chloeandnemo.jpg)
 
-Happy coding!
+Happy coding! 😊👍
