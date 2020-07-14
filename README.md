@@ -1,6 +1,11 @@
+<p align="center">
+
+
 [![Ian Barker](https://www.repeatinformation.com/profile_pics/ianb_headshot.jpg)](https://www.repeatinformation.com)
 
 *Hello.  My name is Ian Barker.  I tell computers what to do.* 
+
+</p>
 
 ---
 
