@@ -12,6 +12,18 @@
 
 ✅ You can view more about me at [_About.me/IanBarker_](https://About.me/IanBarker).
 
+<p align="center">
+
+  <a href="https://twitter.com/punctuation">
+    <img src="https://www.repeatinformation.com/profile_pics/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  </a>  
+
+  <a href="https://www.instagram.com/repeatinformation/">
+    <img src="https://www.repeatinformation.com/profile_pics/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+  </a>
+
+</p>
+
 ### Where can you see my work?
 
 Most of my daily work is for software houses and is generally covered under one or more NDAs.  Not only can I not show it I usually can't even talk about it.  The repos for that work are private so you (hopefully) can't see them - I am a very prolific coder and I have a **lot** of repos 😀
