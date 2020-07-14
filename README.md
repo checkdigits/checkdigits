@@ -1,9 +1,10 @@
 <p align="center">
 
+ <a href="https://www.repeatinformation.com">
+    <img src="https://www.repeatinformation.com/profile_pics/ianb_headshot.jpg" alt="Twitter" style="vertical-align:top; margin:4px">
+  </a>  
 
-[![Ian Barker](https://www.repeatinformation.com/profile_pics/ianb_headshot.jpg)](https://www.repeatinformation.com)
-
-*Hello.  My name is Ian Barker.  I tell computers what to do.* 
+<i>Hello.  My name is Ian Barker.  I tell computers what to do. </i>
 
 </p>
 
