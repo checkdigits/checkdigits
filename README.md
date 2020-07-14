@@ -1,12 +1,8 @@
-<p align="center">
-
  <a href="https://www.repeatinformation.com" target="_blank">
-    <img src="https://www.repeatinformation.com/profile_pics/ianb_headshot.jpg" alt="Twitter" style="vertical-align:top; margin:4px">
+    <img src="https://www.repeatinformation.com/profile_pics/ianb_headshot.jpg" alt="Twitter" style="vertical-align:center; margin:4px">
   </a>  
 
-<i>Hello.  My name is Ian Barker.  I tell computers what to do. </i>
-
-</p>
+**Hello.  My name is Ian Barker.  I tell computers what to do.**
 
 ---
 
