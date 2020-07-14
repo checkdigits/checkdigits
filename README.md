@@ -6,7 +6,7 @@ _Hello.  My name is Ian Barker.  I tell computers what to do._
 
 ---
 
-### What do I do?
+## What do I do?
 
 ✅ I am a British American professional software developer, designer and technical author.
 
@@ -26,7 +26,7 @@ _Hello.  My name is Ian Barker.  I tell computers what to do._
 
 </p>
 
-### Where can you see my work?
+## Where can you see my work?
 
 Most of my daily work is for software houses and is generally covered under one or more NDAs.  Not only can I not show it I usually can't even talk about it.  The repos for that work are private so you (hopefully) can't see them - I am a very prolific coder and I have a **lot** of repos 😀
 
@@ -34,7 +34,7 @@ However, nearly everything else I do is Open Source and public.  You can either 
 
 My CodeRage code is always available via Embarcadero or on my work website.
 
-### Background
+## Background
 
 
 <img src="https://www.repeatinformation.com/profile_pics/ianb_poetry_steps.jpg" align="center"
@@ -52,7 +52,7 @@ I also write poetry and have been published in dozens of anthologies, magazines 
 
 ![Microphone](https://www.repeatinformation.com/profile_pics/ianb_mic.jpg)
 
-### Work
+## Work
 
 ![Ian in Hannover](https://www.repeatinformation.com/profile_pics/ianb_hannover.jpg)
 
