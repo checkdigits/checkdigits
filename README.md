@@ -1,6 +1,6 @@
 <p align="center">
 
- <a href="https://www.repeatinformation.com">
+ <a href="https://www.repeatinformation.com" target="_blank">
     <img src="https://www.repeatinformation.com/profile_pics/ianb_headshot.jpg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
 
@@ -20,11 +20,11 @@
 
 <p align="center">
 
-  <a href="https://twitter.com/punctuation">
+  <a href="https://twitter.com/punctuation" target="_blank">
     <img src="https://www.repeatinformation.com/profile_pics/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
 
-  <a href="https://www.instagram.com/repeatinformation/">
+  <a href="https://www.instagram.com/repeatinformation/" target="_blank">
     <img src="https://www.repeatinformation.com/profile_pics/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
 
@@ -54,13 +54,13 @@ I also write poetry and have been published in dozens of anthologies, magazines 
  
  I was born in London, England.  In 2009 I emigrated to the USA.  I now live in Dallas, Texas.  I became a US Citizen in 2013.  I'm married to an American with an American daughter.  No I haven't lost my cute British accent. 
 
-![Ian in Hannover](https://www.repeatinformation.com/profile_pics/ianb_mic.jpg)
+![Microphone](https://www.repeatinformation.com/profile_pics/ianb_mic.jpg)
 
 ### Work
 
 ![Ian in Hannover](https://www.repeatinformation.com/profile_pics/ianb_hannover.jpg)
 
-I work for myself at [RepeatInformation.com](https://www.repeatinformation.com)
+I work for myself at <a href="https://www.repeatinformation.com" target="_blank">Repeat Information</a>.
 
 I mostly develop applications for Windows, iOS and Android.  No I will not fix your computer.
 
@@ -73,7 +73,8 @@ You can catch me live-streaming in various places across the internet as well as
 
 ## Blogging
 
-I also have a blog with replays and code examples at [CodeDotShow.com](https://www.codedotshow.com/blog)
+I also have a blog with replays and code examples at <a href="https://www.codedotshow.com/blog" target="_blank">CodeDotShow.com</a>.
+
 Sometimes my dogs think it's hilarious to join in by shouting death-threats at passing Pit Bull terriers.  Sorry, (not sorry).  Dogs rule.
 
 ![Chloe and Nemo](https://www.repeatinformation.com/profile_pics/chloeandnemo.jpg)
