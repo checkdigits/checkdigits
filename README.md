@@ -2,7 +2,7 @@
     <img src="https://www.repeatinformation.com/profile_pics/ianb_headshot.jpg" alt="Twitter" style="vertical-align:center; margin:4px">
   </a>  
 
-__Hello.  My name is Ian Barker.  I tell computers what to do._
+_Hello.  My name is Ian Barker.  I tell computers what to do._
 
 ---
 
