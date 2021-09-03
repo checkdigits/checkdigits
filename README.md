@@ -40,10 +40,14 @@
 ## Want to know more about Delphi? 
 Delphi allows you to create programs which work natively on Microsoft Windows, macOS, Linux, iOS, Android and the web. It's easy to learn and use. If you're not using it to develop your applications you're probably working too hard.
 
-Click here to learn more about Delphi and what it can do for you:
+Click the logo to learn more about Delphi and what it can do for you.
+
+<p align="center">
 <a href="https://www.embarcadero.com/products/delphi" target="_blank">
-    <img src="https://www.repeatinformation.com/profile_pics/delphi_logo.png" alt="Instagram" style="vertical-align:top; margin:4px">
+    <img src="https://www.repeatinformation.com/profile_pics/delphi_logo.png" alt="Instagram" style="align:center; margin:4px">
   </a>
+</p>
+
 ## Where can you see my work?
 
 Most of my daily work is for software houses and is generally covered under one or more NDAs.  Not only can I not show it I usually can't even talk about it.  The repos for that work are private so you (hopefully) can't see them - I am a very prolific coder and I have a **lot** of repos 😀
