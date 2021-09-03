@@ -32,7 +32,7 @@
   </a>  
 
   <a href="https://www.instagram.com/repeatinformation/" target="_blank">
-    <img src="https://www.repeatinformation.com/profile_pics/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+    <img src="https://www.repeatinformation.com/profile_pics/instagram.svg" alt="Instagram" style="vertical-align:left; margin:4px">
   </a>
 
 </p>
