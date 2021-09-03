@@ -2,7 +2,7 @@
 <span style="line-height: 1.5; vertical-align: middle; display: inline-block;">
 
 <a href="https://www.repeatinformation.com" target="_blank">
-    <img src="https://www.repeatinformation.com/profile_pics/ianb_headshot.jpg" alt="ians photo" style="float: left; margin:24px">
+    <img src="https://www.repeatinformation.com/profile_pics/ianb_headshot_mvp.jpg" alt="ians photo" style="float: left; margin:24px">
   </a>
 
   
@@ -37,11 +37,18 @@
 
 </p>
 
+## Want to know more about Delphi? 
+Delphi allows you to create programs which work natively on Microsoft Windows, macOS, Linux, iOS, Android and the web. It's easy to learn and use. If you're not using it to develop your applications you're probably working too hard.
+
+Click here to learn more about Delphi and what it can do for you:
+<a href="https://www.embarcadero.com/products/delphi" target="_blank">
+    <img src="https://www.repeatinformation.com/profile_pics/delphi_logo.png" alt="Instagram" style="vertical-align:top; margin:4px">
+  </a>
 ## Where can you see my work?
 
 Most of my daily work is for software houses and is generally covered under one or more NDAs.  Not only can I not show it I usually can't even talk about it.  The repos for that work are private so you (hopefully) can't see them - I am a very prolific coder and I have a **lot** of repos 😀
 
-However, nearly everything else I do is Open Source and public.  You can either find it on my GitHub profile here or at my blog website.
+However, nearly everything else I do is Open Source and public.  You can either find it on my GitHub profile here, the [official Embarcadero blog](https://blogs.embarcadero.com), or at my [own blog](https://www.codedotshow.com/blog/) website.
 
 My CodeRage code is always available via Embarcadero or on my work website.
 
