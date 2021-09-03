@@ -1,11 +1,13 @@
 
 <span style="line-height: 1.5; vertical-align: middle; display: inline-block;">
 
+<p align="center">
 <a href="https://www.repeatinformation.com" target="_blank">
     <img src="https://www.repeatinformation.com/profile_pics/ianb_headshot_mvp.jpg" alt="ians photo" style="float: left; margin:24px">
   </a>
 
-  
+</p>  
+
   <BR /><BR /> _Hello.  My name is Ian Barker.  I tell computers what to do._
 
 </span>
