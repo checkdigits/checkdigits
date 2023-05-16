@@ -23,7 +23,7 @@
 
 ✅ I am a British American professional software developer, designer and technical author.
 
-✅ I am also an [Embarcadero MVP](https://www.embarcadero.com/embarcadero-mvp-program).  **_Delphi is my super-power_**.
+✅ I am the [Embarcadero Developer Advocate]([https://www.embarcadero.com/embarcadero-mvp-program](https://blogs.embarcadero.com/chief-developer-advocate-and-engineer-jim-mckeeth-moves-to-new-role/)).  **_Delphi is my super-power_**.
 
 ✅ You can view more about me at [_About.me/IanBarker_](https://About.me/IanBarker).
 
