@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://www.repeatinformation.com" target="_blank">
-    <img src="https://www.repeatinformation.com/profile_pics/ianb_headshot.jpg" alt="ians photo" style="float: left; margin:24px">
+    <img src="https://www.repeatinformation.com/profile_pics/ianbarker.jpg" alt="ians photo" style="float: left; margin:24px">
   </a>
 
 </p>  
