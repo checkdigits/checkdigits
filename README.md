@@ -86,7 +86,7 @@ I also write poetry and have been published in dozens of anthologies, magazines 
 <img src="https://www.repeatinformation.com/profile_pics/mic.jpg" align="right"
      alt="a microphone" width="141" height="106">
 
-You can catch me live-streaming in various places across the internet as well as on Twitch, LinkedIn Live, Instgram / Meta Live, CodeRage, Embarcadero Academy and YouTube.  
+You can catch me live-streaming in various places across the internet as well as on Twitch, LinkedIn Live, Instagram / Meta Live, CodeRage, Embarcadero Academy and YouTube.  
 
 ## Blogging
 
