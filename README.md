@@ -90,7 +90,7 @@ You can catch me live-streaming in various places across the internet as well as
 
 ## Blogging
 
-I also blog with replays and code examples <a href="https://blogs.embarcadero.com/author/ianbarker/" target="_blank">the Official Embarcadero Blog</a>.
+I also blog with replays and code examples on <a href="https://blogs.embarcadero.com/author/ianbarker/" target="_blank">the Official Embarcadero Blog</a>.
 
 Sometimes my dogs think it's hilarious to join webinars, meetings, and live streams in by shouting death-threats at passing Pit Bull terriers.  Sorry, (not sorry).  Dogs rule.
 
