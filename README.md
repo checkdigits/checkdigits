@@ -52,11 +52,11 @@ Click the logo to learn more about Delphi and what it can do for you.
 
 ## Where can you see my work?
 
-Most of my daily work is for software houses and is generally covered under one or more NDAs.  Not only can I not show it I usually can't even talk about it.  The repos for that work are private so you (hopefully) can't see them - I am a very prolific coder and I have a **lot** of repos 😀
+Most of my daily coding work is generally covered under one or more NDAs.  Not only can I not show it I usually can't even talk about it.  The repos for that work are private so you (hopefully) can't see them - I am a very prolific coder and I have a **lot** of repos 😀
 
 However, nearly everything else I do is Open Source and public.  You can either find it on my GitHub profile here, the [official Embarcadero blog](https://blogs.embarcadero.com), or at my [own blog](https://www.codedotshow.com/blog/) website.
 
-My CodeRage code is always available via Embarcadero or on my work website.
+My CodeRage and other coding bootcamp code is always available via Embarcadero's website.
 
 ## Background
 
@@ -76,26 +76,23 @@ I also write poetry and have been published in dozens of anthologies, magazines 
 
 ![Microphone](https://www.repeatinformation.com/profile_pics/ianb_mic.jpg)
 
-## Work
+
 
 ![Ian in Hannover](https://www.repeatinformation.com/profile_pics/ianb_hannover.jpg)
 
-I work for myself at <a href="https://www.repeatinformation.com" target="_blank">Repeat Information</a>.
-
-I mostly develop applications for Windows, iOS and Android.  No I will not fix your computer.
 
 ## Streaming
 
 <img src="https://www.repeatinformation.com/profile_pics/mic.jpg" align="right"
      alt="a microphone" width="141" height="106">
 
-You can catch me live-streaming in various places across the internet as well as at CodeRage, Embarcadero Academy and YouTube.  
+You can catch me live-streaming in various places across the internet as well as on Twitch, LinkedIn Live, Instgram / Meta Live, CodeRage, Embarcadero Academy and YouTube.  
 
 ## Blogging
 
-I also have a blog with replays and code examples at <a href="https://www.codedotshow.com/blog" target="_blank">CodeDotShow.com</a>.
+I also blog with replays and code examples <a href="https://blogs.embarcadero.com/author/ianbarker/" target="_blank">the Official Embarcadero Blog</a>.
 
-Sometimes my dogs think it's hilarious to join in by shouting death-threats at passing Pit Bull terriers.  Sorry, (not sorry).  Dogs rule.
+Sometimes my dogs think it's hilarious to join webinars, meetings, and live streams in by shouting death-threats at passing Pit Bull terriers.  Sorry, (not sorry).  Dogs rule.
 
 ![Chloe and Nemo](https://www.repeatinformation.com/profile_pics/chloeandnemo.jpg)
 
