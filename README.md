@@ -58,6 +58,12 @@ However, nearly everything else I do is Open Source and public.  You can either 
 
 My CodeRage and other coding bootcamp code is always available via Embarcadero's website.
 
+## :octocat: Statistics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=checkdigits&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=checkdigits&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=checkdigits&theme=github_dark) 
+
 ## Background
 
 
