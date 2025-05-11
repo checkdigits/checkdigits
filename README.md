@@ -78,7 +78,7 @@ I've lived a rich and varied life (so far) and have a broad range of interests a
 I also write poetry and have been published in dozens of anthologies, magazines as well as four books of my own.  I used to perform as part of the BardCore spoken word troupe and have appeared in various festivals, events and workshops as well as a few stately homes. 
 
  
- I was born in London, England.  In 2009 I emigrated to the USA.  I now live in Dallas, Texas.  I became a US Citizen in 2013.  I'm married to an American with an American daughter.  No I haven't lost my cute British accent. 
+ I was born in London, England.  In 2009 I emigrated to the USA.  I now live in Dallas, Texas.  I became a US Citizen in 2013.  I'm resolutely single (trust me on this, it's difficult to live with me!), with an adult American daughter.  No I haven't lost my cute British accent. 
 
 ![Microphone](https://www.repeatinformation.com/profile_pics/ianb_mic.jpg)
 
